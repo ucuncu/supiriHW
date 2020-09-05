@@ -1,0 +1,560 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jan-23-2020 at 05:06:23 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SUPIRI_9V_V2_0';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR NON-POL_SMC0603_100N':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176882@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176882@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176882@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAPACITOR NON-POL_SMC0603_18P':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176970@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176970@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176970@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAPACITOR NON-POL_SMC0603_100N':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS178554@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins178554@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page2_ins178554@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAPACITOR NON-POL_SMC0805_10U/6':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS178776@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins178776@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page2_ins178776@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR NON-POL_SMC0603_18P':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176904@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176904@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176904@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAPACITOR NON-POL_SMC0805_10U/6':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS180364@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins180364@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page3_ins180364@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAPACITOR NON-POL_SMC0805_10U/6':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS180542@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins180542@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page3_ins180542@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAPACITOR NON-POL_SMC0805_10U/6':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS180408@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins180408@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page3_ins180408@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAPACITOR NON-POL_SMC0805_10U/6':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS180386@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins180386@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page3_ins180386@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAPACITOR NON-POL_SMC1210_10UF':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS180430@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins180430@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page3_ins180430@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAPACITOR NON-POL_SMC1210_10UF':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS180342@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins180342@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page3_ins180342@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAPACITOR NON-POL_SMC1210_10UF':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS180700@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins180700@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page3_ins180700@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR NON-POL_SMC0603_15P':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176402@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176402@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176402@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAPACITOR NON-POL_SMC1210_10UF':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS180452@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins180452@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page3_ins180452@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAPACITOR NON-POL_SMC1210_10UF':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS182969@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins182969@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins182969@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAPACITOR NON-POL_SMC1210_10UF':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS182999@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins182999@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins182999@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPACITOR NON-POL_SMC0603_100N':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176794@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176794@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176794@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR NON-POL_SMC0603_100N':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176860@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176860@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176860@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR NON-POL_SMC0603_100N':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176926@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176926@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176926@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAPACITOR NON-POL_SMC0603_100N':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS177036@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins177036@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins177036@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAPACITOR NON-POL_SMC0603_100N':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS177124@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins177124@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins177124@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAPACITOR NON-POL_SMC0603_15P':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176750@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176750@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176750@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_LED_0603_LED-GREEN':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176304@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176304@discrete.\led.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176304@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D10 '1N5819M/CYL_SMDO214AA21_MBRA340':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176948@IRT94 V2.1N5819M/CYL.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176948@\irt94 v2\.\1n5819m/cyl.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176948@\irt94 v2\.\1n5819m/cyl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_2LI_KLEMENS_CON2':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176686@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176686@connector.\con2.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176686@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON5_CON5X140PROG_CON5':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176326@CONNECTOR.CON5.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176326@connector.\con5.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176326@connector.\con5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON2_2LI_KLEMENS_CON2':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS177212@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins177212@connector.\con2.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins177212@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 '796980-8_TE_796980-8_796980-8':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176358@796980-8.796980-8.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176358@\796980-8\.\796980-8.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176358@\796980-8\.\796980-8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'CON6_CON6X140_CON6':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176268@CONNECTOR.CON6.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176268@connector.\con6.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176268@connector.\con6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'CON2_CON_SMD_2X1_CON2':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS177410@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins177410@connector.\con2.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins177410@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'CON2_CON_SMD_2X1_CON2':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS183599@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins183599@connector.\con2.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins183599@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'SUPIRI_LCD_SUPIRI_LCD_SUPIRI_LC':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS178576@SUPIRI_LCD_SYMB.SUPIRI_LCD.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins178576@supiri_lcd_symb.\supiri_lcd.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page2_ins178576@supiri_lcd_symb.\supiri_lcd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR/SM_SMR0603_100K':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS177168@DISCRETE.RESISTOR/SM.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins177168@discrete.\resistor/sm.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins177168@discrete.\resistor/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RESISTOR/SM_0_SMR0603_1K5':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176992@ATB150V2.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176992@atb150v2.\resistor/sm_0.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176992@atb150v2.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RESISTOR/SM_0_SMR0603_10K':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS177146@ATB150V2.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins177146@atb150v2.\resistor/sm_0.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins177146@atb150v2.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'RESISTOR/SM_0_SMR0603_10K':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS177262@ATB150V2.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins177262@atb150v2.\resistor/sm_0.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins177262@atb150v2.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'RESISTOR/SM_0_SMR0603_10K':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS177366@ATB150V2.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins177366@atb150v2.\resistor/sm_0.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins177366@atb150v2.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'RESISTOR/SM_0_SMR0603_10K':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS177474@ATB150V2.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins177474@atb150v2.\resistor/sm_0.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins177474@atb150v2.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'RESISTOR/SM_0_SMR0603_10K':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176180@ATB150V2.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176180@atb150v2.\resistor/sm_0.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176180@atb150v2.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'RESISTOR/SM_0_SMR0603_47K':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS177014@ATB150V2.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins177014@atb150v2.\resistor/sm_0.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins177014@atb150v2.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'RESISTOR/SM_0_SMR0603_10K':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS177322@ATB150V2.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins177322@atb150v2.\resistor/sm_0.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins177322@atb150v2.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'RESISTOR/SM_0_SMR0603_1K5':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS177058@ATB150V2.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins177058@atb150v2.\resistor/sm_0.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins177058@atb150v2.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR/SM_SMR0603_10K':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176816@DISCRETE.RESISTOR/SM.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176816@discrete.\resistor/sm.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176816@discrete.\resistor/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_SMR0603_470R':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176246@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176246@discrete.\resistor.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176246@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'STM32L053C8T6_QFP50P900X900X160':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176482@STM32L053C8T6.STM32L053C8T6.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176482@stm32l053c8t6.\stm32l053c8t6.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176482@stm32l053c8t6.\stm32l053c8t6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'DRV8839_0_QFN50P300X200X80-13N_':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS180274@SUPIRI_9V_BASIC_V0_1.DRV8839_0.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins180274@supiri_9v_basic_v0_1.\drv8839_0.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page3_ins180274@supiri_9v_basic_v0_1.\drv8839_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'DRV8839_0_QFN50P300X200X80-13N_':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS180564@SUPIRI_9V_BASIC_V0_1.DRV8839_0.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins180564@supiri_9v_basic_v0_1.\drv8839_0.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page3_ins180564@supiri_9v_basic_v0_1.\drv8839_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'DRV8839_0_QFN50P300X200X80-13N_':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS180474@SUPIRI_9V_BASIC_V0_1.DRV8839_0.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins180474@supiri_9v_basic_v0_1.\drv8839_0.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page3_ins180474@supiri_9v_basic_v0_1.\drv8839_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U13 'HCPL2731_4_SOT563_NSBC114EPDXV6':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176444@ARTAKSIS.HCPL2731_4.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176444@artaksis.\hcpl2731_4.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176444@artaksis.\hcpl2731_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U14 'HCPL2731_4_SOT563_NSBC114EPDXV6':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS177284@ARTAKSIS.HCPL2731_4.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins177284@artaksis.\hcpl2731_4.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins177284@artaksis.\hcpl2731_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U15 'PCF85134HL/1,118_QFP50P1400X140':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS178798@PC85134.PCF85134HL/1,118.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins178798@pc85134.\pcf85134hl/1,118.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page2_ins178798@pc85134.\pcf85134hl/1,118.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U18 'MCP1702T-3302EMB_SOT-89_3MC_MCP':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS188296@2020-01-23_01-41-40.MCP1702T-3302EMB.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins188296@\2020-01-23_01-41-40\.\mcp1702t-3302emb.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins188296@\2020-01-23_01-41-40\.\mcp1702t-3302emb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'DRV8839_0_QFN50P300X200X80-13N_':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS180632@SUPIRI_9V_BASIC_V0_1.DRV8839_0.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins180632@supiri_9v_basic_v0_1.\drv8839_0.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page3_ins180632@supiri_9v_basic_v0_1.\drv8839_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_3_XTALDFN4_TSX-3225 16.':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS177232@CONTROLLER.CRYSTAL_3.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins177232@controller.\crystal_3.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins177232@controller.\crystal_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'CRYSTAL/SM_XTAL_CM315_SMD_CM315':;
+
+SECTION_NUMBER 1
+ '@SUPIRI_9V_V2_0.SCHEMATIC1(SCH_1):INS176158@DISCRETE.CRYSTAL/SM.NORMAL(CHIPS)':
+ C_PATH='@supiri_9v_v2_0.schematic1(sch_1):ins176158@discrete.\crystal/sm.normal\(chips)',
+ P_PATH='@supiri_9v_v2_0.schematic1(sch_1):page1_ins176158@discrete.\crystal/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

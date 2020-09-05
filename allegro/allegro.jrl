@@ -1,0 +1,20 @@
+\t (00:00:06) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:06)     Journal start - Wed Sep 02 00:43:14 2020
+\t (00:00:06)         Host=HAMIT-PC User=Hamit Pid=7804 CPUs=8
+\t (00:00:06) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:06) 
+   (00:00:06) Loading axlcore.cxt 
+\t (00:00:08) Opening existing design...
+\d (00:00:08) Design opened: C:/Users/Hamit/Desktop/PCB_PROJELER/PCB_DONANIM/SUPIRI_9V_V2/allegro/SUPIRI_9V_V2_0.brd
+\i (00:00:09) trapsize 14425
+\i (00:00:10) trapsize 14733
+\i (00:00:10) trapsize 14733
+\i (00:00:10) trapsize 14643
+\i (00:00:10) trapsize 59805
+\i (00:00:11) shapeedit 
+\i (00:00:18) open 
+\i (00:00:32) fillin "C:\Users\Hamit\Desktop\PCB_PROJELER\PCB_DONANIM\EPTS_PERFANL_XBEE3\allegro\EPTS_PERFANL_XBEE3_V0_3.brd"
+\i (00:00:32) cd "C:\Users\Hamit\Desktop\PCB_PROJELER\PCB_DONANIM\EPTS_PERFANL_XBEE3\allegro"
+\t (00:00:32) Opening existing design...
+\i (00:00:32) trapsize 12605
+\t (00:00:32)     Journal end - Wed Sep 02 00:43:40 2020

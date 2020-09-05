@@ -1,0 +1,26 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Convert Gerber Log                                               )
+(                                                                     )
+(    Drawing          : SUPIRI_9V_V2_0.brd                            )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Thu Jan 23 03:30:02 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+
+Conversion of figures to vias is complete.
+
+    Incomplete net N183615. 
+    Incomplete net GND. 
+2 incomplete nets. 
+
+97 percent of nets are completely connected.
+
+
+Elapsed time for conversion: 0 min 1 sec
+
+
+Conversion complete; no errors found. 

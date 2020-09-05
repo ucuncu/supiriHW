@@ -1,0 +1,167 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../PCB_PROJELER/PCB_DONANIM/SUPIRI_9V_V1/allegro/supiri_9v_v1_4.brd      |
+|                                                    Thu Jan 23 04:50:00 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  3.3V_UC      pins ADDED TO this existing net (pins not previously on any net)
+                                 C32.1                          
+                                 U18.3                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 C32.2                          
+                                 J8.1                           
+                                 U18.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N183615      pins ADDED TO this new net
+                                 J8.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N16812995    pins MOVED FROM this net (to net name listed on right)
+                                 D10.1            49.000 -1160.0
+                                                                        N183615
+                                 J3.2            -62.000 -1351.0
+                                                                        N183615
+                                 J7.2            100.000 -902.00
+                                                                        N183615
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N16820744    pins MOVED FROM this net (to net name listed on right)
+                                 C31.1             9.000 -420.00
+                                                                           VBAT
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N168112541   net RENAMED (to net name listed on right)           N1762561     
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VBAT         pins ADDED TO this existing net (pins not previously on any net)
+                                 U18.2                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../PCB_PROJELER/PCB_DONANIM/SUPIRI_9V_V1/allegro/supiri_9v_v1_4.brd      |
+|                                                    Thu Jan 23 04:50:00 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ MCP1702T-3302EMB_SOT-89_3MC_MCP
+ RESISTOR/SM_0_SMR0603_10K
+ RESISTOR/SM_0_SMR0603_47K
+ RESISTOR/SM_SMR0603_100K
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../PCB_PROJELER/PCB_DONANIM/SUPIRI_9V_V1/allegro/supiri_9v_v1_4.brd      |
+|                                                    Thu Jan 23 04:50:00 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C11                 CAPACITOR NON-POL_SMC0603_10N -157.00 -865.00
+ C12                 CAPACITOR POL/SM_SMCSMD5X53_10U 246.000 -1361.0
+ C13                 CAPACITOR NON-POL_SMC0603_100N 422.000 -806.00
+ C14                 CAPACITOR NON-POL_SMC0603_3.3N 427.000 -972.00
+ C15                 CAPACITOR POL/SM_SMCSMD5X53_22U 243.000 -543.00
+ FB1                 INDUCTOR/SM_SMR0603_MPZ1608S601 421.000 -715.00
+ L1                  INDUCTOR/SM_IND_LQH43NH181J03L_ 247.000 -240.00
+ R8                  RESISTOR/SM_0_SMR0603_100K 425.000 -888.00
+ R9                  RESISTOR/SM_0_SMR0603_26.1K 435.000 -1150.0
+ R11                 RESISTOR/SM_0_SMR0603_10K 275.000 -1119.0
+ R12                 RESISTOR/SM_0_SMR0603_5.6K 430.000 -1060.0
+ U2                  MP1482_SOIC8_MP1482   129.000 -912.00
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../PCB_PROJELER/PCB_DONANIM/SUPIRI_9V_V1/allegro/supiri_9v_v1_4.brd      |
+|                                                    Thu Jan 23 04:50:00 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C32                 CAPACITOR NON-POL_SMC1210_10UF 
+ J8                  CON2_CON_SMD_2X1_CON2 
+ U18                 MCP1702T-3302EMB_SOT-89_3MC_MCP 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../PCB_PROJELER/PCB_DONANIM/SUPIRI_9V_V1/allegro/supiri_9v_v1_4.brd      |
+|                                                    Thu Jan 23 04:50:00 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C31                 CAPACITOR NON-POL_SMC1210_10UF   9.000 -363.00 CAPACITOR NON-POL_SMC1206_22U/1
+ R1                  RESISTOR/SM_SMR0603_100K 872.000 -293.00 RESISTOR/SM_SMR0603_470R
+ R17                 RESISTOR/SM_0_SMR0603_10K 2633.00 -1064.0 RESISTOR/SM_0_SMR0603_10K
+ R18                 RESISTOR/SM_0_SMR0603_10K 2720.00 -1064.0 RESISTOR/SM_0_SMR0603_10K
+ R19                 RESISTOR/SM_0_SMR0603_10K 2805.00 -1065.0 RESISTOR/SM_0_SMR0603_10K
+ R20                 RESISTOR/SM_0_SMR0603_10K 2892.00 -1065.0 RESISTOR/SM_0_SMR0603_10K
+ R21                 RESISTOR/SM_0_SMR0603_10K 2984.00 -1065.0 RESISTOR/SM_0_SMR0603_10K
+ R24                 RESISTOR/SM_0_SMR0603_47K 451.000 -1661.0 RESISTOR/SM_0_SMR0603_4K7
+ R25                 RESISTOR/SM_0_SMR0603_10K 389.000 -1660.0 RESISTOR/SM_0_SMR0603_1K
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:.../PCB_PROJELER/PCB_DONANIM/SUPIRI_9V_V1/allegro/supiri_9v_v1_4.brd      |
+|                                                    Thu Jan 23 04:50:00 2020  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C31.2            9.000 -363.00 PRIM_FILE      .\pstchip.dat
+ C31.2            9.000 -363.00 SECTION        
+ C32.2                          PRIM_FILE      .\pstchip.dat
+ C32.2                          SECTION        
+ J8.2                           PRIM_FILE      .\pstchip.dat
+ J8.2                           SECTION        
+ R1.2           872.000 -293.00 PRIM_FILE      .\pstchip.dat
+ R1.2           872.000 -293.00 SECTION        
+ R17.2          2633.00 -1064.0 PRIM_FILE      .\pstchip.dat
+ R17.2          2633.00 -1064.0 SECTION        
+ R18.2          2720.00 -1064.0 PRIM_FILE      .\pstchip.dat
+ R18.2          2720.00 -1064.0 SECTION        
+ R19.2          2805.00 -1065.0 PRIM_FILE      .\pstchip.dat
+ R19.2          2805.00 -1065.0 SECTION        
+ R20.2          2892.00 -1065.0 PRIM_FILE      .\pstchip.dat
+ R20.2          2892.00 -1065.0 SECTION        
+ R21.2          2984.00 -1065.0 PRIM_FILE      .\pstchip.dat
+ R21.2          2984.00 -1065.0 SECTION        
+ R24.2          451.000 -1661.0 PRIM_FILE      .\pstchip.dat
+ R24.2          451.000 -1661.0 SECTION        
+ R25.2          389.000 -1660.0 PRIM_FILE      .\pstchip.dat
+ R25.2          389.000 -1660.0 SECTION        
+ U18.3                          PRIM_FILE      .\pstchip.dat
+ U18.3                          SECTION        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:.../PCB_PROJELER/PCB_DONANIM/SUPIRI_9V_V1/allegro/supiri_9v_v1_4.brd      |
+|                                                    Thu Jan 23 04:50:00 2020  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      12                                        |
+|       Comp definitions added:       4                                        |
+|       Components added      :       3                                        |
+|       Components deleted    :      12                                        |
+|       Components changed    :       9                                        |
+|       Slot property added   :      24                                        |
+|                                                                              |
+|   Total ECO changes reported:      64                                        |
+|------------------------------------------------------------------------------|

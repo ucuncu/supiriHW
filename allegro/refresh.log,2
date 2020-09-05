@@ -1,0 +1,82 @@
+Thu Jan 23 03:48:54 2020				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Thu Jan 23 03:48:54 2020
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : SUPIRI_9V_V2_0.brd                            )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Thu Jan 23 03:48:54 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Thu Jan 23 03:48:54 2020				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'C:/Users/Hamit/Desktop/PCB_PROJELER/PCB_DONANIM/SUPIRI_9V_V2/allegro/SUPIRI_9V_V2_0.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+Symbol list file                       = 'C:/Users/Hamit/AppData/Local/Temp/#Taaaaai10464.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/symbols 
+           C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/padstacks 
+           C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+
+
+------ Symbol Refresh Messages ------
+
+
+'REG_MCP1702T-3302EMB'  symbol starting to refresh:
+     WARNING(SPMHNI-273): Component 'U16', symbol 'REG_MCP1702T-3302EMB', location (236.000 -894.000) had edited pins.
+     
+     'REG_MCP1702T-3302EMB'  symbol refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 1 out 1
+    Design updated.
+
+Completed refreshing symbols; some symbols may not have been updated due to warnings or errors.
+       0  errors detected.
+       1  warnings detected.

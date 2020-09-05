@@ -1,0 +1,62 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : SUPIRI_9V_V2_0.brd                            )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Thu Jan 23 06:05:31 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (inch)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	YES
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+ WARNING(SPMHMF-360): Design precision is greater than that of the drill output file data.
+ WARNING(SPMHMF-361): Data rounding errors are very possible.
+
+
+ Drill files being output to directory 'C:/USERS/HAMIT/DESKTOP/PCB_PROJELER/PCB_DONANIM/SUPIRI_9V_V2/allegro' ...
+
+
+
+     'SUPIRI_9V_V2_0-1-2.drl' created for holes connecting TOP and BOTTOM
+     --------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   8.0000    0.0000/  0.0000      PLATED        177
+            2.  40.0000    0.0000/  0.0000      PLATED         58
+            3.  55.0000    0.0000/  0.0000      PLATED          4
+            4.  55.1180    0.0000/  0.0000      PLATED          1
+            5.  62.0000    0.0000/  0.0000      PLATED          4
+            6.  75.1180    0.0000/  0.0000      PLATED          7
+            7. 130.0000    0.0000/  0.0000      PLATED          4
+
+     ---- Total holes:                                        255
+
+     ---- Total head travel:              13.04 feet (3.97 meters)
+

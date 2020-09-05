@@ -1,0 +1,96 @@
+(ExpressProject "supiri_9V_v2_0"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\supiri_9v_v2_0.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Input Board File"
+       "C:\Users\Hamit\Desktop\PCB_PROJELER\PCB_DONANIM\SUPIRI_9V_V1\allegro\supiri_9v_v1_4.brd")
+    ("Allegro Netlist Output Board File" "allegro\SUPIRI_9V_V2_0.brd")
+    ("Allegro Netlist Remove Etch" "TRUE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "C:\USERS\HAMIT\DESKTOP\PCB_PROJELER\PCB_DONANIM\SUPIRI_9V_V2\SUPIRI_9V_V2_0.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{Description}")
+    (BOM_Header "Item\tQuantity\tReference\tPart\tDescription")
+    (BOM_Include_File
+       "C:\USERS\HAMIT\DESKTOP\PCB_PROJELER\PCB_DONANIM\SUPIRI_9V_V2\SUPIRI_9V_V2_0.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\supiri_9v_v2_0.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (MCP1702T-3302EMB
+      (FullPartName "MCP1702T-3302EMB.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\MY_PERSONAL_LIBRARY\MCP1702T-3302E-ULRALIB\2020-01-23_01-41-40.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "Hamit")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\supiri_9v_v2_0.dsn")
+      (Path "Design Resources" ".\supiri_9v_v2_0.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\supiri_9v_v2_0.dsn" "SCHEMATIC1" "01__uC")
+      (Select "Design Resources" ".\supiri_9v_v2_0.dsn" "SCHEMATIC1"
+         "02__LcdDriver")
+      (Select "Design Resources" ".\supiri_9v_v2_0.dsn" "SCHEMATIC1"
+         "03__RelayDriver")
+      (Select "Design Resources" ".\supiri_9v_v2_0.dsn" "SCHEMATIC1"
+         "04__LcdScreen"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 420"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1044 156 521")
+        (Scroll "0 60")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\HAMIT\DESKTOP\PCB_PROJELER\PCB_DONANIM\SUPIRI_9V_V2\SUPIRI_9V_V2_0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "03__RelayDriver")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library\my_personal_library\MCP1702T-3302E-ulralib")
+  (ISPCBBASICLICENSE "false"))

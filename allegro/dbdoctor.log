@@ -1,0 +1,14 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : SUPIRI_9V_V2_0.brd                            )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Thu Jan 23 06:06:43 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING Deleted redundant via at (1554.000 -322.000) on net GND.
+
+1 warnings, 0 errors detected, 0 errors could be fixed.

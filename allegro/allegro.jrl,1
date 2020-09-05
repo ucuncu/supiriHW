@@ -1,0 +1,17 @@
+\t (00:00:05) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Thu Aug 06 21:56:40 2020
+\t (00:00:05)         Host=HAMIT-PC User=Hamit Pid=12060 CPUs=8
+\t (00:00:05) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Design opened: C:/Users/Hamit/Desktop/PCB_PROJELER/PCB_DONANIM/SUPIRI_9V_V2/allegro/SUPIRI_9V_V2_0.brd
+\i (00:00:07) trapsize 14425
+\i (00:00:07) trapsize 14733
+\i (00:00:07) trapsize 14733
+\i (00:00:08) trapsize 14643
+\i (00:00:08) trapsize 59805
+\i (00:00:08) shapeedit 
+\i (00:00:22) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:40) exit 
+\t (00:00:40)     Journal end - Thu Aug 06 21:57:15 2020
